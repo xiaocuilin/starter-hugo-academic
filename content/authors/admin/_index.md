@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiaocui Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Zhejiang University
+  url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: Zhejiang University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -43,15 +43,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xiaocuilin
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
