@@ -6,7 +6,7 @@ title: Xiaocui Lin
 superuser: true
 
 # Role/position/tagline
-role: Ph.D of Artificial Intelligence
+role: Ph.D. of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,14 +19,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Scientific Computation
+- Law
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Zhejiang University
+    institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -43,15 +43,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/xiaocuilin
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/

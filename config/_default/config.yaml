@@ -12,8 +12,11 @@ copyright: '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+# defaultContentLanguage: en
+# hasCJKLanguage: false
+# defaultContentLanguageInSubdir: false
+defaultContentLanguage: zh
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
