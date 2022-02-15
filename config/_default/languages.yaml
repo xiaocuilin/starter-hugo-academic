@@ -18,26 +18,39 @@ zh:
    description: Site description in Chinese...
  menu:
    main:
-     - name: 主页
-       url: '#home'
+     - name: 关于
+       url: '#about'
        weight: 10
-
-     - name: 文章
-       url: '#posts'
-       weight: 20
-
-     - name: 项目
-       url: '#projects'
-       weight: 30
-
-     - name: 论文
-       url: '#publications'
-       weight: 40
 
      - name: 技能
        url: '#skills'
+       weight: 20
+
+     - name: 经历
+       url: '#experience'
+       weight: 30
+
+     - name: 成就
+       url: '#accomplishments'
+       weight: 40
+
+     - name: 文章
+       url: '#posts'
        weight: 50
 
-     - name: 关于
-       url: '#about'
+     - name: 项目
+       url: '#projects'
        weight: 60
+
+     - name: 演讲
+       url: '#talks'
+       weight: 70
+
+     - name: 论文
+       url: '#publications'
+       weight: 80
+
+     - name: 联系
+       url: '#contact'
+       weight: 90
+
